@@ -1,13 +1,13 @@
 {
   "food": {
-    "hunger": false,
+    "hunger": true,
     "saturation": "merged"
   },
   "jukebox": "fancy",
   "sign": "fancy",
   "entities": {
     "fish_bucket": {
-      "enabled": false,
+      "enabled": true,
       "always_show_name": false,
       "spin": true
     },
