@@ -1,6 +1,6 @@
 {
   "food": {
-    "hunger": true,
+    "hunger": false,
     "saturation": "merged"
   },
   "jukebox": "fancy",
